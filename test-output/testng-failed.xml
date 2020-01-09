@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test Suite]">
+  <test thread-count="5" name="D:/seleniumjava(failed)">
+    <classes>
+      <class name="CRM.TestDaiHuaiZhang">
+        <methods>
+          <include name="checkDaiHuaiZhang"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- CRM.TestDaiHuaiZhang -->
+    </classes>
+  </test> <!-- D:/seleniumjava(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
